@@ -1,22 +1,10 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/alpacahq/alpaca-mcp-server/main/assets/01-primary-alpaca-logo.png" alt="Alpaca logo" width="220">
-</p>
+# Alpaca MCP Server - Banana Stand Edition
 
-<div align="center">
+**Disco Media's fork of the [Alpaca MCP Server](https://github.com/alpacahq/alpaca-mcp-server), specifically configured for running Banana Stand.**
 
-<a href="https://x.com/alpacahq?lang=en" target="_blank"><img src="https://img.shields.io/badge/X-DCDCDC?logo=x&logoColor=000" alt="X"></a>
-<a href="https://www.reddit.com/r/alpacamarkets/" target="_blank"><img src="https://img.shields.io/badge/Reddit-DCDCDC?logo=reddit&logoColor=000" alt="Reddit"></a>
-<a href="https://alpaca.markets/slack" target="_blank"><img src="https://img.shields.io/badge/Slack-DCDCDC?logo=slack&logoColor=000" alt="Slack"></a>
-<a href="https://www.linkedin.com/company/alpacamarkets/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-DCDCDC" alt="LinkedIn"></a>
-<a href="https://forum.alpaca.markets/" target="_blank"><img src="https://img.shields.io/badge/Forum-DCDCDC?logo=discourse&logoColor=000" alt="Forum"></a>
-<a href="https://docs.alpaca.markets/docs/getting-started" target="_blank"><img src="https://img.shields.io/badge/Docs-DCDCDC" alt="Docs"></a>
-<a href="https://alpaca.markets/sdks/python/" target="_blank"><img src="https://img.shields.io/badge/Python_SDK-DCDCDC?logo=python&logoColor=000" alt="Python SDK"></a>
+This is a comprehensive Model Context Protocol (MCP) server for Alpaca's Trading API, customized for Disco Media's Banana Stand trading operations. Enable natural language trading operations through AI assistants like Claude, Cursor, and VS Code. Supports stocks, options, crypto, portfolio management, and real-time market data.
 
-</div>
-
-<p align="center">
-  A comprehensive Model Context Protocol (MCP) server for Alpaca's Trading API. Enable natural language trading operations through AI assistants like Claude, Cursor, and VS Code. Supports stocks, options, crypto, portfolio management, and real-time market data.
-</p>
+> **Note:** This fork is maintained by Disco Media for internal use with Banana Stand. For the official Alpaca MCP Server, visit [alpacahq/alpaca-mcp-server](https://github.com/alpacahq/alpaca-mcp-server).
 
 ## Table of Contents
 
